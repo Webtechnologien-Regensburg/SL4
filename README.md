@@ -56,7 +56,8 @@ Verwenden Sie die zur Verfügung gestellte, auf [\textcolor{blue}{IMDb}](https:/
 
 Laden Sie Ihre Lösung bis spätestens 19.7.2020 (23:59 Uhr) als zip-komprimierten Ordner auf GRIPS hoch.  Benennen Sie die einzelnen Dateien pro Aufgabe sinnvoll und verwenden Sie geeignete Formate:
 
-- Aufgabe: Das gesamte Projekt (HTML, JS, CSS)
+- Aufgabe 1: Ihre Datenbank als .sqlite - Datei
+- Aufgabe 2:  Ihre SQL-Queries in einer .sql - Datei
 
 Der Name der Zip-Datei ergibt sich aus dem Präfix „SL_WT_SS20“, der Nr. der Studienleistung, ihrem Vor- und Nachnamen jeweils getrennt durch _ .
 
