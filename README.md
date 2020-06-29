@@ -48,7 +48,7 @@ Verwenden Sie die zur Verfügung gestellte, auf [\textcolor{blue}{IMDb}](https:/
 - Geben Sie den Titel, das Jahr und die Bewertung der Filme von Matthew McConaughey aus, die besser als 8.5 bewertet worden sind. Basierend auf der Bewertung, sollen die Filme in aufsteigender Reihenfolge dargestellt werden.
 - Geben Sie die durchschnittliche Bewertung der Filme mit Leonardo DiCaprio aus.
 
-
+Da die Datenbank viele Einträge enthält, kann es bei der ein oder anderen Abfrage ein wenig dauern bis ihre Query vollständig verarbeitet ist.
 
 ------
 
