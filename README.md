@@ -45,7 +45,7 @@ Verwenden Sie die zur Verfügung gestellte, auf [\textcolor{blue}{IMDb}](https:/
 - Geben Sie die Anzahl aller Filme aus, die in der Datenbank gespeichert sind.
 - Geben Sie alle Filme (Titel, Jahr, Schauspieler) zwischen 1995 und 2010 aus, in denen entweder Vin Diesel oder Brad Pitt oder beide mitspielen.
 - Geben Sie den Titel und die Bewertung der Filme aus, die mit mehr als 100.000 Bewertungen besser als 9.0 bewertet worden sind.
-- Geben Sie den Titel, das Jahr und die Bewertung der Filme von Matthew McConaughey aus, die besser als 8.5 bewertet worden sind.
+- Geben Sie den Titel, das Jahr und die Bewertung der Filme von Matthew McConaughey aus, die besser als 8.5 bewertet worden sind. Basierend auf der Bewertung, sollen die Filme in aufsteigender Reihenfolge dargestellt werden.
 - Geben Sie die durchschnittliche Bewertung der Filme mit Leonardo DiCaprio aus.
 
 
