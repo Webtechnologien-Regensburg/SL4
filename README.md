@@ -35,20 +35,17 @@ _DHMaster (LectureTitle, LectureCredits, LecturerFirstName, LecturerLastName, Mo
 
 ## Aufgabe 2: SQL-Abfragen
 
-Verwenden Sie die zur Verfügung gestellte, auf [\textcolor{blue}{IMDb}](https://www.imdb.com/) - basierende Datenbank _movies_, um mit Hilfe von SQL-Queries die im Folgenden vorgegebenen Daten zu erhalten. Alle Aufgaben dürfen nur mit **einer** SQL-Abfrage gelöst werden. Mehrere SQL-Abfragen hintereinander führen zu 0 Punkten bei der jeweiligen Teilaufgabe. Kennzeichnen Sie mit Hilfe von Kommentaren, welche Query welcher Teilaufgabe zuzuordnen ist.
+Verwenden Sie die zur Verfügung gestellte Datenbank [\textcolor{blue}{chinook}](https://www.sqlitetutorial.net/sqlite-sample-database/) um mit Hilfe von SQL-Queries die im Folgenden vorgegebenen Daten zu erhalten. Die Datenbank kann über GRIPS heruntergeladen werden. Alle Aufgaben dürfen nur mit **einer** SQL-Abfrage gelöst werden. Mehrere SQL-Abfragen hintereinander führen zu 0 Punkten bei der jeweiligen Teilaufgabe. Kennzeichnen Sie mit Hilfe von Kommentaren, welche Query welcher Teilaufgabe zuzuordnen ist.
 
-- Geben Sie Namen und Geburtsjahr aller in der movies-Datenbank aufgeführten Personen aus.
-- Geben Sie alle Filme aus, die zwischen 1990 und 2000 ausgestrahlt worden sind.
-- Geben Sie alle Filme aus, in denen Sylvester Stallone mitspielt.
-- Geben Sie die Anzahl aller Filme aus, in denen Sylvester Stallone zwischen 1990 und 2000 mitgespielt hat.
-- Geben Sie die Namen aller "Stars" aus, die in dem Film "Interstellar" mitgewirkt haben.
-- Geben Sie die Anzahl aller Filme aus, die in der Datenbank gespeichert sind.
-- Geben Sie alle Filme (Titel, Jahr, Schauspieler) zwischen 1995 und 2010 aus, in denen entweder Vin Diesel oder Brad Pitt oder beide mitspielen.
-- Geben Sie den Titel und die Bewertung der Filme aus, die mit mehr als 100.000 Bewertungen besser als 9.0 bewertet worden sind.
-- Geben Sie den Titel, das Jahr und die Bewertung der Filme von Matthew McConaughey aus, die besser als 8.5 bewertet worden sind. Basierend auf der Bewertung, sollen die Filme in aufsteigender Reihenfolge dargestellt werden.
-- Geben Sie die durchschnittliche Bewertung der Filme mit Leonardo DiCaprio aus.
-
-Da die Datenbank viele Einträge enthält, kann es bei der ein oder anderen Abfrage ein wenig dauern bis ihre Query vollständig verarbeitet ist.
+- Geben Sie Namen aller in der Datenbank aufgeführten Künstler (artists) aus.
+- Geben Sie alle Alben von AC/DC aus.
+- Geben Sie alle Kunden aus, die in den USA wohnhaft sind.
+- Geben Sie den Namen und die Gesamtsumme alle Rechungen von Leonie Köhler aus.
+- Geben Sie die Namen aller Tracks aus, die in den Alben von Iron Maiden enthalten sind.
+- Geben Sie die Anzahl aller Tracks von Aerosmith, in der Datenbank gespeichert sind.
+- Geben Sie alle Tracks und die dazugehörigen Namen der Komponisten der Playlist "Brazilian Music" aus.
+- Geben Sie alle Tracks aus, die dem Genre "Reggae" zugeordnet sind.
+- Geben Sie das am häufigsten verkaufteste Album aus.
 
 ------
 
