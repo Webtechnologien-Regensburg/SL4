@@ -29,7 +29,7 @@ Erstellen Sie eine Datenbank, die folgende Tabelle abbildet:
 
 _DHMaster (LectureTitle, LectureCredits, LecturerFirstName, LecturerLastName, ModuleID, ModuleName)_
 
-Überführen Sie die Tabelle in die dritte Normalform, indem Sie passende Relationen erstellen. Sie können  [\textcolor{blue}{DB Browser für SQLite}](https://sqlitebrowser.org/) verwenden, um die Datenbank zu erstellen.
+Überführen Sie die Tabelle in die dritte Normalform, indem Sie passende Relationen mit Primär-und Fremdschlüsseln erstellen. Sie können  [\textcolor{blue}{DB Browser für SQLite}](https://sqlitebrowser.org/) verwenden, um die Datenbank zu generieren. 
 
 
 
@@ -45,7 +45,6 @@ Verwenden Sie die zur Verfügung gestellte Datenbank [\textcolor{blue}{chinook}]
 - Geben Sie die Anzahl aller Tracks von Aerosmith, in der Datenbank gespeichert sind.
 - Geben Sie alle Tracks und die dazugehörigen Namen der Komponisten der Playlist "Brazilian Music" aus.
 - Geben Sie alle Tracks aus, die dem Genre "Reggae" zugeordnet sind.
-- Geben Sie das am häufigsten verkaufteste Album aus.
 
 ------
 
