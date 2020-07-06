@@ -42,7 +42,7 @@ Verwenden Sie die zur Verfügung gestellte Datenbank [\textcolor{blue}{chinook}]
 - Geben Sie alle Kunden aus, die in den USA wohnhaft sind.
 - Geben Sie den Namen und die Gesamtsumme alle Rechungen von Leonie Köhler aus.
 - Geben Sie die Namen aller Tracks aus, die in den Alben von Iron Maiden enthalten sind.
-- Geben Sie die Anzahl aller Tracks von Aerosmith, in der Datenbank gespeichert sind.
+- Geben Sie die Anzahl aller Tracks von Aerosmith aus, die in der Datenbank gespeichert sind.
 - Geben Sie alle Tracks und die dazugehörigen Namen der Komponisten der Playlist "Brazilian Music" aus.
 - Geben Sie alle Tracks aus, die dem Genre "Reggae" zugeordnet sind.
 
